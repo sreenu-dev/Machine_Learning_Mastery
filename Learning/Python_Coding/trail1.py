@@ -1,0 +1,1 @@
+print("Running in Coding Practise VM")

@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "Python Debugger(coding-practise): Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "python":"${workspaceFolder}\\VMs\\coding-practise\\Scripts\\python.exe",
+            "cwd": "${workspaceFolder}",
+            "env": {},
+            "envFile": "${workspaceFolder}/.env",
+            "consoleTitle": "Debugging For Coding Practise"
+        }
+    ]
+}
