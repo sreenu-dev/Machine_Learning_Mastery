@@ -18,6 +18,7 @@ Agendas:
 - [ ] Get more understanding on Models
 - [ ] Learn more about Regression Models in Detail in SkLearn
 - [ ] Complete Pandas Learning Kaggle
+- [ ] Practise Pandas and Numpy (Data Camp, Real Python)
 
 <b>Things Done</b>
 - [x] Initial Setup completed
