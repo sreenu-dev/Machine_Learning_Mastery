@@ -13,10 +13,23 @@ Agendas:
 - Understand Data Visualization Clearly
 
 **Things To Do**
-- [ ] Relearn Jupyter Notebooks
+- [x] Relearn Jupyter Notebooks
 - [ ] Get upto pace to become proficient in Machine Learning
+- [ ] Get more understanding on Models
+- [ ] Learn more about Regression Models in Detail in SkLearn
+- [ ] Complete Pandas Learning Kaggle
+- [ ] Practise Pandas and Numpy (Data Camp, Real Python)
 
 <b>Things Done</b>
 - [x] Initial Setup completed
 - [x] Created Venv for Coding Practise
+- [x] Completed Introduction to Machine Learning in Kaggle
+
+
+Regression Models that needs Deep Understanding:
+- Decision Tree Regressor
+- Random Forest Regressor
+
+
+Note: Branch used for writing: citation
 
