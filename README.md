@@ -19,6 +19,7 @@ Agendas:
 - [ ] Learn more about Regression Models in Detail in SkLearn
 - [ ] Complete Pandas Learning Kaggle
 - [ ] Practise Pandas and Numpy (Data Camp, Real Python)
+- [ ] Try to Create text in github heat map check how its done
 
 <b>Things Done</b>
 - [x] Initial Setup completed
